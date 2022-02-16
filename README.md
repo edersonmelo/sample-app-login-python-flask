@@ -18,17 +18,17 @@ Instale o Flask-MySQLdb com o comando: pip install flask-mysqldb</br>
 ## 1.2. Estrutura e configuração de arquivos
 Precisamos criar nosso diretório e arquivos do projeto. Você pode criar o diretório em qualquer lugar do seu computador, desde que o Python possa acessá-lo. Crie os diretórios e arquivos abaixo.
 </br>
-File Structure
-\-- sample-app-login-python-flask
-    |-- main.py
-    \-- static
-        |-- style.css
-    \-- templates
-        |-- index.html
-        |-- register.html
-        |-- home.html
-        |-- profile.html
-        |-- layout.html
+File Structure</br></br>
+\-- sample-app-login-pyt</br>hon-flask</br>
+    |-- main.py</br></br>
+    \-- static</br>
+        |-- style.css</br>
+    \-- templates</br>
+        |-- index.html</br>
+        |-- register.html</br>
+        |-- home.html</br>
+        |-- profile.html</br>
+        |-- layout.html</br>
 </br>
 main.py — Este será nosso arquivo de projeto principal, todo nosso código Python estará neste arquivo (Rotas, conexão MySQL, validação, ...).</br>
 index.html — O modelo de formulário de login criado com HTML5 e CSS3.</br>
